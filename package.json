@@ -1,0 +1,26 @@
+{
+  "name": "internet-notifier",
+  "version": "1.0.0",
+  "description": "Internet online/offline notifications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Anant Sharma",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.18.1",
+    "network-ping": "^1.0.0",
+    "node-notifier": "^5.1.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anant-sharma/internet-notifier.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anant-sharma/internet-notifier/issues"
+  },
+  "homepage": "https://github.com/anant-sharma/internet-notifier#readme"
+}
